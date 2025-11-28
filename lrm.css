@@ -1,0 +1,588 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+nav {
+  width: 100%;
+  height: 10vh;
+  background-color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.wan {
+  font-family: "Pacifico", cursive;
+  font-size: 35px;
+  color: white;
+}
+.tun {
+  color: rgb(42, 42, 236);
+  margin-left: 30px;
+}
+.bbb {
+  color: rgb(106, 106, 229);
+  padding: 10px 30px;
+  background-color: #193c47;
+  border-radius: 5px;
+}
+nav a {
+  text-decoration: none;
+}
+.glasss i{
+  color: cyan;
+}
+.text {
+  background-color: #242424;
+  color: white;
+  align-items: center;
+  margin-left: 243px;
+  padding: 10px 100px;
+  border-radius: 10rem;
+}
+
+.tre {
+  color: white;
+  padding-right: 30px;
+}
+nav button {
+  color: rgb(69, 69, 199);
+}
+.mega {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  background-color: black;
+  padding-top: 50px;
+}
+.cles {
+  width: 100%;
+  height: 70px;
+}
+.assa {
+  color: black;
+  background-color: #242424;
+  border-radius: 10rem;
+  padding: 8px 20px;
+  text-decoration: none;
+}
+.assa:hover {
+  background-color: rgb(44, 41, 157);
+}
+.ultra {
+  width: 100%;
+  display: flex;
+}
+.ultra img {
+  flex-wrap: wrap;
+}
+.ultra img:hover {
+  transform: translateY(-5px);
+  transition: 0.6s;
+  transform: translateY(5px);
+  transition: 0.6s;
+}
+
+.ultra a {
+  text-decoration: none;
+}
+.ims {
+  width: 100%;
+}
+
+.ims img {
+  width: 100px;
+  background-color: #2a1a00;
+  border-radius: 2rem;
+}
+.ims h1 {
+  color: white;
+  font-size: 15px;
+}
+.imf {
+  width: 100%;
+}
+.imf img {
+  width: 100px;
+  background-color: #09250a;
+  border-radius: 2rem;
+}
+.imf h1 {
+  color: white;
+  font-size: 15px;
+}
+.imd {
+  width: 100%;
+}
+.imd img {
+  width: 100px;
+  background-color: #002238;
+  border-radius: 2rem;
+}
+.imd h1 {
+  color: white;
+  font-size: 15px;
+}
+.imj {
+  width: 100%;
+}
+.imj img {
+  width: 100px;
+  background-color: #401414;
+  border-radius: 2rem;
+}
+.imj h1 {
+  color: white;
+  font-size: 15px;
+}
+.imp {
+  width: 100%;
+}
+.imp img {
+  width: 100px;
+  background-color: #002b36;
+  border-radius: 2rem;
+}
+.imp h1 {
+  color: white;
+  font-size: 15px;
+}
+.iml {
+  width: 100%;
+}
+.iml img {
+  width: 100px;
+  background-color: #3c2000;
+  border-radius: 2rem;
+}
+.iml h1 {
+  color: white;
+  font-size: 15px;
+}
+
+.imo {
+  width: 100%;
+}
+.imo img {
+  width: 100px;
+  background-color: #190b3a;
+  border-radius: 2rem;
+}
+.imo h1 {
+  color: white;
+  font-size: 15px;
+}
+.imy {
+  width: 100%;
+}
+.imy img {
+  width: 100px;
+  background-color: #3f006a;
+  border-radius: 2rem;
+}
+.imy h1 {
+  color: white;
+  font-size: 15px;
+}
+
+.imk {
+  width: 100%;
+}
+.imk img {
+  width: 100px;
+  background-color: #3d3a00;
+  border-radius: 2rem;
+}
+.imk h1 {
+  color: white;
+  font-size: 15px;
+}
+
+.imb {
+  width: 100%;
+}
+.imb img {
+  width: 100px;
+  background-color: #09250a;
+  border-radius: 2rem;
+}
+.imb h1 {
+  color: white;
+  font-size: 15px;
+}
+
+.imh {
+  width: 100%;
+}
+.imh img {
+  width: 100px;
+  background-color: #09250a;
+  border-radius: 2rem;
+}
+.imh h1 {
+  color: white;
+  font-size: 15px;
+}
+.imm {
+  width: 100%;
+}
+.imm img {
+  width: 100px;
+  background-color: #401414;
+  border-radius: 2rem;
+}
+.imm h1 {
+  color: white;
+  font-size: 15px;
+}
+.addai {
+  width: 95%;
+  display: flex;
+}
+.addai img {
+  width: 300px;
+  height: 400px;
+  gap: 30px;
+}
+.carousel-inner {
+  width: 60% !important;
+  margin: 0 auto;
+  height: 600px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.cart {
+  padding-top: 50px;
+  width: 100%;
+  height: auto;
+}
+.cart img {
+  width: 200px;
+  border-radius: 5px;
+}
+.cart img:hover {
+  transform: scale(1.08);
+  transition: 0.7s;
+}
+.cart a {
+  text-decoration: none;
+}
+.cart h1 {
+  font-size: 20px;
+  color: white;
+}
+.cartss {
+  display: flex;
+}
+.menyu{
+  width: 100%;  
+  height: auto;
+  display: flex;
+  gap: 20px;
+}
+.menyu img{
+width: 350px;
+height: 200px;
+border-radius: 5px;
+margin-top: 50px;
+}
+.vc{
+ text-decoration:  none;
+ padding: 20px 150px;
+ background-color: rgb(112, 143, 228);
+ border-radius: 5px;
+ color: black;
+}
+.meny p{
+  color: white;
+}
+/* Yeni əlavə olunan Azərbaycan dilli klasslar */
+.modal-govdesi {
+  background-color: #202124 !important; /* Tünd fon */
+  color: white;
+  border: 1px solid #333;
+}
+
+.basliq-yazisi {
+  font-family: sans-serif;
+  color: #fff;
+}
+
+.form-etiketi {
+  color: #ccc;
+  font-size: 14px;
+}
+
+.giris-inputu {
+  background-color: #333 !important;
+  border: none !important;
+  color: white !important;
+}
+
+.giris-inputu:focus {
+  background-color: #444 !important;
+  box-shadow: 0 0 5px rgb(106, 106, 229);
+}
+
+.tesdiq-duymesi {
+  width: 100%;
+  background-color: rgb(42, 42, 236);
+  color: white;
+  font-weight: bold;
+}
+
+.tesdiq-duymesi:hover {
+  background-color: rgb(69, 69, 199);
+  color: white;
+}
+
+/* Giriş edəndən sonra adın görünəcəyi klass */
+.istifadeci-adi-stili {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #242424;
+  padding: 10px 20px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.cixis-iconu {
+  color: #ff4d4d;
+  cursor: pointer;
+  margin-left: 10px;
+}
+/* Məhsul Kartının dizaynı (Ürək üçün relative lazımdır) */
+.mehsul-karti {
+  position: relative; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* Sənin köhnə meny style-na uyğunlaşdırma */
+  height: 350px !important; 
+}
+
+/* Ürək İkonu */
+.urek-iconu {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-size: 25px;
+  color: white; /* İçi boş rəng */
+  background-color: rgba(0, 0, 0, 0.5); /* Arxa fon */
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.3s;
+  z-index: 10;
+}
+
+.urek-iconu:hover {
+  transform: scale(1.1);
+}
+
+/* Qırmızı ürək klassı (JS ilə əlavə olunacaq) */
+.qirmizi-urek {
+  color: red !important;
+  background-color: white !important;
+}
+
+/* Qiymət və Düymə hissəsi */
+.qiymet-hissesi {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  margin-top: 10px;
+}
+
+.mehsul-qiymeti {
+  color: #fff;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+/* Buttonu bir az balacalaşdıraq ki, qiymətlə yanaşı yerləşsin */
+.vc {
+  padding: 10px 40px !important; /* Köhnə padding çox böyük idi */
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Sabit Səbət Düyməsi (Sağ Altda) */
+.sabit-sebet-duymesi {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 70px;
+  height: 70px;
+  background-color: rgb(42, 42, 236);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 0 15px rgba(42, 42, 236, 0.6);
+  z-index: 9999;
+  font-size: 30px;
+  color: white;
+  transition: 0.3s;
+}
+
+.sabit-sebet-duymesi:hover {
+  transform: scale(1.1);
+  background-color: rgb(69, 69, 199);
+}
+
+/* Səbət üzərindəki sayğac */
+.sabit-sebet-duymesi .badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 14px;
+  border-radius: 50%;
+}
+#bttt{
+  color: black;
+  background-color: cyan;
+}
+
+@media screen and (max-width: 992px) {
+    
+    
+    nav {
+        padding: 0 20px;
+    }
+
+    .text {
+        margin-left: 20px;
+        padding: 10px 40px;
+        width: 100%;
+    }
+
+    .menyu {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .meny {
+        width: 45%; 
+        margin-bottom: 30px;
+    }
+    
+    .meny img {
+        width: 100%; 
+    }
+
+    .carousel-inner {
+        width: 90% !important;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    
+    nav {
+        height: auto; 
+        flex-direction: column; 
+        padding: 20px 10px;
+        gap: 15px; 
+    }
+
+    .wan {
+        margin-bottom: 10px;
+    }
+
+    .text {
+        margin-left: 0; 
+        padding: 10px 20px;
+    }
+
+    .istifadeci-paneli {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 10px;
+    }
+
+    .ultra {
+        flex-wrap: wrap; 
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .ultra div {
+        width: 30%; 
+        margin-bottom: 15px;
+    }
+
+    .ultra img {
+        width: 70px; 
+        height: 70px;
+    }
+
+    .ultra h1 {
+        font-size: 12px; 
+        margin-top: 5px;
+    }
+
+    
+    .carousel-inner {
+        width: 95% !important; 
+        height: 250px; 
+        border-radius: 10px;
+    }
+    
+    .carousel-item img {
+        height: 250px;
+        object-fit: cover;
+    }
+
+   
+    .menyu {
+        flex-direction: column; 
+        align-items: center;
+    }
+
+    .meny {
+        width: 90%;
+        height: auto; 
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #333; 
+    }
+
+    .meny img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+    
+    .qiymet-hissesi {
+        margin-top: 15px;
+        padding: 0 5px;
+    }
+    
+    .vc {
+        padding: 10px 20px !important;
+        font-size: 14px;
+    }
+
+    .cartss {
+        flex-direction: column; 
+        align-items: center;
+    }
+
+    .cart {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    
+    .cart img {
+        width: 100%; 
+    }
+}
